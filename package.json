@@ -8,11 +8,7 @@
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
     "url": "https://github.com/StephanBegins/MyGeneral-Portfolio"
-=======
-    "url": "MyGeneral-Portfolio"
->>>>>>> 69912c3242df33a9497d3bf95c27c096dd8cee0b
   },
   "keywords": [
     "npm"
